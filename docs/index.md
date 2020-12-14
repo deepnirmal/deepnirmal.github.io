@@ -5,9 +5,9 @@ Hi ! This is Deep Nirmal, currently working as a Senior Software Engineer @ Swig
 ## Experiences 
 
 ### Swiggy 
-Role: Software Engineer III 
-Teams : Driver life-cycle management,Fleet Planning, Driver-Payouts 
-Worked on multiple scalable distributed microservices in Golang+DynamoDB+Kafka scaling upto 60k throughput QPM 
+Role: Software Engineer III  
+- Teams : Driver life-cycle management,Fleet Planning, Driver-Payouts  
+- Worked on multiple scalable distributed microservices in Golang+DynamoDB+Kafka scaling upto 60k throughput QPM 
 
 
 ### Nestaway Technologies Pvt. Ltd 
