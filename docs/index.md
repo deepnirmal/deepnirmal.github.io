@@ -4,8 +4,8 @@ Hi there! This is Deep Nirmal, currently working as a Senior Software Engineer @
 
 I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keen interest in space exploration and physics.
 
-## Skills
-_**GoLang** , **Kafka**, **DynamoDB**, **Java**, **SpringBoot**, **Docker**, **K8s**_
+## Tech
+_GoLang, Kafka, DynamoDB, Java, SpringBoot, Docker, K8s, Apache Airflow, Apache Flume, Confluent, Docker, Redis Labs, ElasticCache, MySql, CloudWatch, Prometheus, New Relic, Grafana_
 
 ## Experiences 
 
