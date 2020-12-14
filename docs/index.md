@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Intro
 
-You can use the [editor on GitHub](https://github.com/deepnirmal/deepnirmal.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hi ! This is Deep Nirmal, currently working as a Senior Software Engineer @ Swiggy. India's biggest hyperlocal startup which is Unicorn as well. I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keep interest in space exploration and physics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experiences 
 
-### Markdown
+### Swiggy 
+Role: Software Engineer III 
+Teams : Driver life-cycle management,Fleet Planning, Driver-Payouts 
+Worked on multiple scalable distributed microservices in Golang+DynamoDB+Kafka scaling upto 60k throughput QPM 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Nestaway Technologies Pvt. Ltd 
+Role: Software Engineer II 
+- Developed a fully functional House-onboarding flow from scratch with Owner Dashboard saving almost 2.6 Million a month.  
+- Developed feature which integrates LeadSquared and Zapier results in saving almost 3 Lacs a month on Tenant Leads 
+- Payments: Developed microservices for the invoice, accounting, and subscriptions for Nestaway. 
+- Data engineering: Developed data sync pipelines between SQL engine to BQ and Salesforce to BQ using Apache Airflow, Docker and Kubernetes. Developed ML pipelines and models based on product growth using Apache Superset for data-visualization and docker based Jupiter notebooks. 
+Webapp core: Developed business features and product enhancements for the main Nestaway website. Ownership for ScheduleVisits and Booking for tenant and ListYourProperty for the owner. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deepnirmal/deepnirmal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Walmart Labs 
+Role: Software Engineer  
+- Order manager : Downloading the orders from upstream system OrderWell via pull mechanism based on a trigger at Kafka queue with a batch of 1000 orders at a time. Validating the orders based on the store and item and passing it to enrichment. 
+- Wave release : Feature to release orders from enrichment to fulfillment with SLA of ~2 seconds, auto release during config time interval and maintaining statuses for the release until it gets loaded and shipped. 
+- Order tracker: Complete end-to-end order flow starting from order creation from DC to WMT which includes processing, fulfillment, receiving, move, inventory and completion. 
