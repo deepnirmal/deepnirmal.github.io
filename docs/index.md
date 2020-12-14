@@ -2,14 +2,14 @@
 
 Hi ! This is Deep Nirmal, currently working as a Senior Software Engineer @ [Swiggy](https://www.swiggy.com/). India's biggest hyperlocal startup which is Unicorn as well.   
 
-I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keep interest in space exploration and physics.
+I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keen interest in space exploration and physics.
 
 ## Experiences 
 
 ### Swiggy 
 Role: Software Engineer III  
-- Teams : Driver life-cycle management,Fleet Planning, Driver-Payouts  
-- Worked on multiple scalable distributed microservices in Golang+DynamoDB+Kafka scaling upto 60k throughput QPM 
+- Teams : Driver life-cycle management, Fleet Planning, Driver-Payouts  
+- Worked on multiple scalable distributed microservices in Golang + DynamoDB + Kafka scaling upto 60k throughput QPM 
 
 
 ### Nestaway Technologies Pvt. Ltd 
