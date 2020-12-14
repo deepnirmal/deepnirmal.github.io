@@ -4,9 +4,6 @@ Hi there! This is Deep Nirmal, currently working as a Senior Software Engineer @
 
 I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keen interest in space exploration and physics.
 
-## Tech
-_GoLang, Kafka, DynamoDB, Java, SpringBoot, Docker, K8s, Apache Airflow, Apache Flume, Confluent, Docker, Redis Labs, ElasticCache, MySql, CloudWatch, Prometheus, New Relic, Grafana_
-
 ## Experiences 
 
 ### Swiggy 
@@ -28,3 +25,6 @@ Role: Software Engineer
 - Order manager : Downloading the orders from upstream system OrderWell via pull mechanism based on a trigger at Kafka queue with a batch of 1000 orders at a time. Validating the orders based on the store and item and passing it to enrichment. 
 - Wave release : Feature to release orders from enrichment to fulfillment with SLA of ~2 seconds, auto release during config time interval and maintaining statuses for the release until it gets loaded and shipped. 
 - Order tracker: Complete end-to-end order flow starting from order creation from DC to WMT which includes processing, fulfillment, receiving, move, inventory and completion. 
+
+## Technology
+_GoLang, Kafka, DynamoDB, Java, SpringBoot, Docker, K8s, Apache Airflow, Apache Flume, Confluent, Docker, Redis Labs, ElasticCache, MySql, CloudWatch, Prometheus, New Relic, Grafana_
