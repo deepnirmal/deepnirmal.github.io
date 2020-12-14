@@ -1,6 +1,8 @@
 ## Intro
 
-Hi ! This is Deep Nirmal, currently working as a Senior Software Engineer @ Swiggy. India's biggest hyperlocal startup which is Unicorn as well. I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keep interest in space exploration and physics.
+Hi ! This is Deep Nirmal, currently working as a Senior Software Engineer @ [Swiggy](https://www.swiggy.com/). India's biggest hyperlocal startup which is Unicorn as well.   
+
+I like building systems which are robust, easy to maintain, scales based on the need. Apart from software development, I do have keep interest in space exploration and physics.
 
 ## Experiences 
 
